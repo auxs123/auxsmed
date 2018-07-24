@@ -12,12 +12,12 @@ h1{
 }
 a{
     text-decoration:none;
-    color:#ff9301;
+    color:#f6f4ff;
     background-color:transparent
 }
 a:focus,a:hover{
     text-decoration:none;
-    color:#ffb44e
+    color:#f6f4ff
 }
 a:focus{
     outline:thin dotted;
