@@ -1,6 +1,6 @@
 
 body{
-    background: #1b1f24;
+    color: #1b1f24;
     background-size:cover;
     min-height:100%;
     font-family:Rubik,sans-serif
@@ -14,7 +14,6 @@ body{
     -ms-flex-direction:column;
     flex-direction:column;
     -webkit-box-pack:center;
-    -ms-flex-pack:center;
     justify-content:center;
     min-height:800px
 }
